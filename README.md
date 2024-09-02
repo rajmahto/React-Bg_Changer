@@ -1,12 +1,8 @@
-# React-Bg_Changer
-This project is a React application that allows users to dynamically change the background color of the webpage. It uses Tailwind CSS for styling, providing a clean and responsive design.
+# React + Vite
 
-# Features:
-Interactive UI to select and apply different background colors.
-Responsive design, compatible with all screen sizes.
-Clean and minimalistic code structure.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# Technologies Used:
-React
-JavaScript (ES6)
-CSS
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
